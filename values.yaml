@@ -1,0 +1,5 @@
+externalURL: https://registry-asi.octopus.lab
+adminPassword: "admin"
+nginx:
+  tls:
+    commonName: registry-asi.octopus.lab
